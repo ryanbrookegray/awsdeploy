@@ -1,7 +1,6 @@
 {
   "name": "awsdeploy",
   "version": "0.1.0",
-  "homepage": "http://ahfarmer.github.io/emoji-search",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
